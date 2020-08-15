@@ -1,0 +1,3 @@
+local mysql root / remote  waldo / waldo
+
+
